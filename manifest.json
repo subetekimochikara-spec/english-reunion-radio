@@ -1,0 +1,20 @@
+{
+  "name": "英語再会ラジオ",
+  "short_name": "再会ラジオ",
+  "start_url": "./english_reunion_radio_v3_3_auto_pack_merge.html",
+  "display": "standalone",
+  "background_color": "#0e1118",
+  "theme_color": "#7bdcff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
